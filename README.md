@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Akash Srivastava 👋
 
-<!--
-**Akash-csee/Akash-csee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 MERN Stack Developer
+- 🛡️ Learning Cybersecurity & Web Pentesting
+- ☕ Solving DSA in Java
+- 📚 Currently exploring Docker, REST APIs & Secure Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frontend
+- React
+- Next.js (Learning)
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Tools & Technologies
+- Git
+- GitHub
+- Docker
+- Postman
+- Linux
+- Burp Suite
+
+### Cybersecurity
+- Web Pentesting
+- Ethical Hacking
+- OWASP Top 10
+- Web Application Security
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building Full Stack MERN Applications
+- 🛡️ Learning Web Application Security & Ethical Hacking
+- ☕ Practicing Java DSA
+- 📖 Preparing for Software Development & Cybersecurity Roles
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:**  
+**Srivastavaakash358@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/akashsrivastava-dev/
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
