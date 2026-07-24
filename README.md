@@ -60,7 +60,7 @@ I'm a Final Year Computer Science Engineering student passionate about **Full St
 
 ---
 
-### 🛡️ Cybersecurity
+### 🛡️ Cybersecurity & Current Learning
 
 <p>
 
@@ -84,48 +84,24 @@ I'm a Final Year Computer Science Engineering student passionate about **Full St
 
 # 🎯 Current Focus
 
-- 🚀 Building Full Stack MERN Applications
-- 🔐 Learning Secure Web Development & Web Pentesting
-- ☕ Strengthening Java DSA
-- 🐳 Learning Docker & Containerization
-- 🛡️ Practicing Burp Suite Labs & OWASP Top 10
-- 📖 Preparing for Software Development & Cybersecurity Roles
-
+> 🚀 **Building Full Stack MERN Applications** │ 🔐 **Learning Secure Web Development & Web Pentesting** │ ☕ **Strengthening Java DSA** │ 🐳 **Learning Docker & Containerization** │ 🛡️ **Practicing Burp Suite Labs & OWASP Top 10** │ 📖 **Preparing for Software Development & Cybersecurity Roles**
 ---
 
 # 📌 Featured Projects
 
 ### 🚀 FullStack-MERN
 
-Comprehensive MERN Stack learning repository covering:
+> **React.js** │ **Node.js** │ **Express.js** │ **MongoDB** │ **REST APIs** │ **JWT** │ **Authentication** │ **Deployment**
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- Authentication & Authorization
-- Deployment
+Comprehensive MERN Stack learning repository covering modern full-stack development.
 
 ---
 
 ### 🛡️ CyberSecurity
 
-Learning repository containing:
+> **EHCS** │ **Web Security** │ **Web Pentesting** │ **Burp Suite** │ **OWASP Top 10** │ **AppSec** │ **TryHackMe** │ **Hack The Box**
 
-- EHCS Notes
-- Web Security
-- Web Pentesting
-- Burp Suite Labs
-- OWASP Top 10
-- Application Security (AppSec)
-- TryHackMe
-- Hack The Box
-- Hands-on Practice
-
----
-
+My cybersecurity learning repository containing notes, labs, write-ups, and hands-on practice.
 # 📈 GitHub Stats
 
 <p align="center">
