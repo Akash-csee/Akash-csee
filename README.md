@@ -2,66 +2,92 @@
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer
-- 🛡️ Learning Cybersecurity & Web Pentesting
-- ☕ Solving DSA in Java
-- 📚 Currently exploring Docker, REST APIs & Secure Web Development
+- 💻 Full Stack Developer (MERN)
+- 🛡️ Learning Cybersecurity, Web Application Security & Ethical Hacking
+- ☕ Solving Data Structures & Algorithms (DSA) in Java
+- 🚀 Building REST APIs & Secure Web Applications
+- 📚 Currently exploring Docker, AppSec & Modern Web Technologies
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-- Java
-- JavaScript
-- HTML
-- CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
 ### Frontend
-- React
-- Next.js (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### Tools & Technologies
-- Git
-- GitHub
-- Docker
-- Postman
-- Linux
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+</p>
+
+### 🛡️ Cybersecurity
+
 - Burp Suite
-
-### Cybersecurity
 - Web Pentesting
 - Ethical Hacking
 - OWASP Top 10
-- Web Application Security
+- Web Application Security (AppSec)
 
 ---
 
-## 📌 Current Focus
+## 🎯 Currently Learning
 
-- 🚀 Building Full Stack MERN Applications
-- 🛡️ Learning Web Application Security & Ethical Hacking
-- ☕ Practicing Java DSA
-- 📖 Preparing for Software Development & Cybersecurity Roles
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker" />
+</p>
+
+- 🔐 Secure Web Development
+- 🛡️ Web Pentesting
+- ☕ Java DSA
+- 🚀 Full Stack MERN Development
 
 ---
 
-## 📫 Connect with Me
+## 📌 Featured Projects
+
+🚀 **FullStack-MERN**  
+Comprehensive MERN Stack learning repository covering MongoDB, Express.js, React, Node.js, REST APIs, JWT Authentication, and Deployment.
+
+🛡️ **CyberSecurity**  
+Learning Cybersecurity through EHCS, Web Security, AppSec, Burp Suite, TryHackMe, Hack The Box, and hands-on practice.
+
+---
+
+## 📊 GitHub Stats
+
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-csee&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-csee&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect with Me
 
 📧 **Email:**  
 **Srivastavaakash358@gmail.com**
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/akashsrivastava-dev/
+[linkedin.com/in/akashsrivastava-dev](https://www.linkedin.com/in/akashsrivastava-dev/)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ **Thanks for visiting my profile!**
+
+> *Building secure, scalable web applications while exploring cybersecurity and ethical hacking.*
