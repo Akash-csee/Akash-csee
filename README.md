@@ -2,31 +2,77 @@
 
 ### 🚀 Full Stack Developer (MERN) | Web Pentesting | Ethical Hacking
 
-I'm a Final Year Computer Science student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure web applications, exploring web vulnerabilities, and continuously learning modern technologies.
+I'm a Final Year Computer Science Engineering student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure web applications, solving DSA problems, exploring web vulnerabilities, and continuously learning modern technologies.
+
+---
+
+# 🚀 About Me
+
+- 💻 Full Stack Developer (MERN)
+- 🛡️ Learning Cybersecurity, Web Application Security & Ethical Hacking
+- ☕ Solving Data Structures & Algorithms (DSA) in Java
+- 🚀 Building REST APIs & Secure Web Applications
+- 📚 Currently exploring Docker, Kali Linux & Modern Web Technologies
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,docker,git,github,vscode,postman,linux,kali&perline=8" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ---
 
-# 🛡️ Cybersecurity
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
 
-<p align="center">
+---
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+### 🐳 DevOps & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🐧 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+
+---
+
+### 🛡️ Cybersecurity
+
+<p>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-F47C20?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Web%20Pentesting-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Pentesting-E53935?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AppSec-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Application%20Security-1E88E5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 
@@ -36,37 +82,76 @@ I'm a Final Year Computer Science student passionate about **Full Stack Developm
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Current Focus
 
-- 🚀 Full Stack MERN Development
-- 🔐 Secure Web Development
-- 🛡️ Web Pentesting
-- ☕ Java DSA
-- 🐳 Docker
-- 🐧 Kali Linux
+- 🚀 Building Full Stack MERN Applications
+- 🔐 Learning Secure Web Development & Web Pentesting
+- ☕ Strengthening Java DSA
+- 🐳 Learning Docker & Containerization
+- 🛡️ Practicing Burp Suite Labs & OWASP Top 10
+- 📖 Preparing for Software Development & Cybersecurity Roles
 
 ---
 
 # 📌 Featured Projects
 
 ### 🚀 FullStack-MERN
-Comprehensive MERN Stack repository covering React, Node.js, Express.js, MongoDB, REST APIs, Authentication, and Deployment.
+
+Comprehensive MERN Stack learning repository covering:
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+- Authentication & Authorization
+- Deployment
+
+---
 
 ### 🛡️ CyberSecurity
-Learning repository containing EHCS notes, Web Security concepts, AppSec, Burp Suite labs, OWASP Top 10, TryHackMe and Hack The Box practice.
+
+Learning repository containing:
+
+- EHCS Notes
+- Web Security
+- Web Pentesting
+- Burp Suite Labs
+- OWASP Top 10
+- Application Security (AppSec)
+- TryHackMe
+- Hack The Box
+- Hands-on Practice
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-csee&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-csee&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**  
+📧 **Email**
+
 **Srivastavaakash358@gmail.com**
 
-💼 **LinkedIn**  
-**https://www.linkedin.com/in/akashsrivastava-dev/**
+💼 **LinkedIn**
+
+<a href="https://www.linkedin.com/in/akashsrivastava-dev/" target="_blank">
+https://www.linkedin.com/in/akashsrivastava-dev/
+</a>
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
 
-> *Building secure web applications while learning modern cybersecurity and ethical hacking.*
+> *Building secure, scalable web applications while continuously learning Full Stack Development and Cybersecurity.*
