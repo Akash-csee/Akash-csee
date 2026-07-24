@@ -20,14 +20,14 @@ I'm a Final Year Computer Science Engineering student passionate about **Full St
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+ <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
 
 ---
 
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
 ---
