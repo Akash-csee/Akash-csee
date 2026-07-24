@@ -1,6 +1,6 @@
 # Hi, I'm Akash Srivastava 👋
 
-### 🚀 Full Stack Developer (MERN) | Learning Web Pentesting , Ethical Hacking
+### 🚀 Full Stack Developer (MERN) | Learning Web Pentesting & Ethical Hacking
 
 I'm a Final Year Computer Science Engineering student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure web applications, solving DSA problems, exploring web vulnerabilities, and continuously learning modern technologies.
 
